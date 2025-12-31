@@ -1,0 +1,21 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+
+# PyCharm
+.idea/
+
+# 数据文件
+*.csv
+
+# 模型文件
+*.pth
+*.pt
+*.pkl
+models/
+models_v2/
+saved_models/
+
+# 日志文件
+*.log
