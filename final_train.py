@@ -1,4 +1,4 @@
-# final_gpt_train.py
+# final_train.py
 import os
 import argparse
 import random
